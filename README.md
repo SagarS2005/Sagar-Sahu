@@ -53,7 +53,7 @@ Practice and exploration of React fundamentals and component-based architecture.
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SagarS2005?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/SagarS2005?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" &v=1 />
 </p>
 
 ---
